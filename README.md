@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64fef1e45ce9f4ca58b295f8?variant=light)](https://roadmap.sh)
